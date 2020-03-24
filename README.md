@@ -46,7 +46,7 @@ are not able to verify your expertise.
 
 ## Bugs, Issues & Enhancement Requests
 If you find any bug / issue or have an idea how to improve the dashboard,
-please create an [issue](https://github.com/chschoenenberger/covid19_dashboard/issues). 
+please create an [issue](https://github.com/Cipher-oos/2019-nCOV-dashboard/issues). 
 I will try to look into it as soon as possible.
 
 ## License
