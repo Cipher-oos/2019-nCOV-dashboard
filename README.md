@@ -1,5 +1,5 @@
 # 2019-nCOV-dashboard 
-This [dashboard] shows recent developments of the COVID-19 pandemic. The latest
+This dashboard shows recent developments of the COVID-19 pandemic. The latest
 open data on the COVID-19 spread are regularly downloaded and displayed in
 a map, summary tables, key figures and plots.
 
